@@ -1,7 +1,7 @@
 function domSection(){
     const microclone = document.getElementById("microclone");
 
-    microclone.innerHTML = "<font color='green'>root@MicroClone:~$ ./life code</font>";
+    microclone.innerHTML = "<font color='green'>root@MicroClone:~$ ./life code_</font>";
     microclone.style.backgroundColor = "black";
     microclone.head.title = "Hello World";
     microclone.style.padding = "15px";
