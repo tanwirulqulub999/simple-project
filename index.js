@@ -17,3 +17,24 @@ function alr(){
     document.write(`<center>selamat datang ${inputName} semoga bahagia selalu ya ^_^</center>`);
 }
 domSection();
+
+/*
+create web using javascript
+make a mobile application (android & ios) using react native, ionic, nativescript, etc.
+create a desktop app using electron, nw.js, proton native, nodegui, etc.
+make operating system using os.js or nodeOS
+*/
+
+/*
+create web using javascript
+make a mobile application (android & ios) using react native, ionic, nativescript, etc.
+create a desktop app using electron, nw.js, proton native, nodegui, etc.
+make operating system using os.js or nodeOS
+*/
+
+/*
+create web using javascript
+make a mobile application (android & ios) using react native, ionic, nativescript, etc.
+create a desktop app using electron, nw.js, proton native, nodegui, etc.
+make operating system using os.js or nodeOS
+*/
