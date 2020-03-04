@@ -1,7 +1,8 @@
 # simple project
-make a simple project using web frontend (html, css, and javascript)
-![image of GitHub](https://octodex.github.com/images/original.png)
+make a simple project using web frontend `html, css, and javascript`
 
+
+### contact
 if there is a problem contact me :
 - email : microclonedevcoder@gmail.com
 - telegram : [@qolbunnadhzifu](https://t.me/qolbunnadhzifu)
