@@ -1,4 +1,5 @@
 # simple project
+![image of GitHub](https://octodex.github.com/images/original.png)
 make a simple project using web frontend (html, css, and javascript)
 
 
