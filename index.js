@@ -14,7 +14,7 @@ alr();
 function alr(){
     window.alert("WELCOME");
     const inputName = prompt("what is your name?");
-    document.write(`<center>selamat datang ${inputName} semoga bahagia selalu ya ^_^</center>`);
+    document.write(`<center>selamat datang <b>${inputName}</b> semoga bahagia selalu ya ^_^</center>`);
 }
 domSection();
 
